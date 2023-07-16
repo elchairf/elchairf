@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elchairf
 - 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning industrial engineering and management
+- 🌱 I’m an industrial engineering and management
 - 💞️ I’m looking to collaborate on AI and product analysis and management
 - 📫 How to reach me ...https://www.linkedin.com/in/elchai-refoua-b907b91a3/
 
