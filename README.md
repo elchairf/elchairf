@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elchai refoua
+- 👋 Hi, I’m elchai refoua
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m an industrial engineering and management
 - 💞️ I’m looking to collaborate on AI and product analysis and management
