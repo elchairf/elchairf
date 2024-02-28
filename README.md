@@ -1,6 +1,7 @@
 - 👋 Hi, I’m elchai refoua
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m an industrial engineering and management
+- 📚 I’m a Master's degree student in Big Data and Business Intelligence at the Technion 
 - 💞️ I’m looking to collaborate on AI and product analysis and management
 - 📫 How to reach me ...https://www.linkedin.com/in/elchai-refoua-b907b91a3/
 --
